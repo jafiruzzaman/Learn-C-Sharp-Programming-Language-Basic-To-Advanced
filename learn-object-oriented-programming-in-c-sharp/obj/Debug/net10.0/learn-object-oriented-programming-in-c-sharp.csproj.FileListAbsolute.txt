@@ -12,3 +12,4 @@
 /home/mohammad-jafiruzzaman/RiderProjects/learn-object-oriented-programming-in-c-sharp/learn-object-oriented-programming-in-c-sharp/obj/Debug/net10.0/learn-object-oriented-programming-in-c-sharp.pdb
 /home/mohammad-jafiruzzaman/RiderProjects/learn-object-oriented-programming-in-c-sharp/learn-object-oriented-programming-in-c-sharp/obj/Debug/net10.0/learn-object-oriented-programming-in-c-sharp.genruntimeconfig.cache
 /home/mohammad-jafiruzzaman/RiderProjects/learn-object-oriented-programming-in-c-sharp/learn-object-oriented-programming-in-c-sharp/obj/Debug/net10.0/ref/learn-object-oriented-programming-in-c-sharp.dll
+/home/mohammad-jafiruzzaman/RiderProjects/learn-object-oriented-programming-in-c-sharp/learn-object-oriented-programming-in-c-sharp/obj/Debug/net10.0/learn-object-oriented-programming-in-c-sharp.sourcelink.json
