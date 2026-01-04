@@ -7,5 +7,8 @@ class Program
   {
     ProgramStructure programStructure = new ProgramStructure();
     programStructure.Run();
+    // Data-Types
+    DataTypes dataTypes = new DataTypes();
+    dataTypes.Run();
   }
 }
