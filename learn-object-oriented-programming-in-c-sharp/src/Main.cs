@@ -13,5 +13,7 @@ class Program
     // Operators In C#
     Operators operators = new Operators();
     operators.Run();
+    Conditionals conditionals = new Conditionals();
+    conditionals.Run();
   }
 }
