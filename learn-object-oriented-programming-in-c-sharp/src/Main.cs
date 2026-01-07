@@ -30,5 +30,14 @@ class Program
     // 2D Array or Matrix
     LearnMatrix learnMatrix = new LearnMatrix();
     learnMatrix.Run();
+    // learn about classes and Objects
+
+    // Create Object with the instance Of Class
+    Car car = new Car();
+    // Access Properties
+    car.brand = "BMW";
+    car.model = "M5 Competition";
+    car.year = 2020;
+    Console.WriteLine(car.brand + " " + car.model + " " + car.year);
   }
 }
