@@ -21,5 +21,7 @@ class Program
     // calculator.Run();
     Loops loops = new Loops();
     loops.Run();
+    LearnArray learnArray = new LearnArray();
+    learnArray.Run();
   }
 }
