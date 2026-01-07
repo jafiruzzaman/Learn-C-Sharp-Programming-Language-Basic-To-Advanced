@@ -1,5 +1,6 @@
 using System;
 using learn_object_oriented_programming_in_c_sharp;
+using learn_object_oriented_programming_in_c_sharp.OOPs;
 
 class Program
 {
@@ -39,5 +40,18 @@ class Program
     car.model = "M5 Competition";
     car.year = 2020;
     Console.WriteLine(car.brand + " " + car.model + " " + car.year);
+    
+    // learn about Objects & Constructors
+    Student mohammad = new Student("Mohammad", "Jafiruzzaman", 20, "Male");
+    Console.WriteLine(mohammad.name+" "+mohammad.surname+" "+mohammad.age+" "+mohammad.gender);
+    mohammad.sayHello();
+    
+    // Encapsulation
+    BankAccount brac = new BankAccount();
+    // use setter to set balance
+    brac.setBalance(500);
+    // use getter to get balance
+    int balance = brac.getBalance();
+    Console.WriteLine(balance);
   }
 }
