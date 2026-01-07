@@ -10,5 +10,8 @@ class Program
     // Data-Types
     DataTypes dataTypes = new DataTypes();
     dataTypes.Run();
+    // Operators In C#
+    Operators operators = new Operators();
+    operators.Run();
   }
 }
