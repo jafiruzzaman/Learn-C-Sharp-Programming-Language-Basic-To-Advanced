@@ -4,7 +4,7 @@ namespace learn_object_oriented_programming_in_c_sharp
   {
     public void Run()
     {
-      Console.WriteLine("Hello World!");
+      Console.WriteLine("======================================================= All About Arrays In C# =======================================================");
       // 1. Declare and initialize separately
       // Declare
       int[] numbers = new int[5]; // size 5

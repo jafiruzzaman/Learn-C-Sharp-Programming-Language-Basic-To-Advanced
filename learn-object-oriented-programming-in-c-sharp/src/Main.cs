@@ -21,7 +21,11 @@ class Program
     // calculator.Run();
     Loops loops = new Loops();
     loops.Run();
+    // Arrays
     LearnArray learnArray = new LearnArray();
     learnArray.Run();
+    // Strings
+    LearnString learnString = new LearnString();
+    learnString.Run();
   }
 }
