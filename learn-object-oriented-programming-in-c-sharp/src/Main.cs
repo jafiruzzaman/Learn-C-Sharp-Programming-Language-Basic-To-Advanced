@@ -27,5 +27,8 @@ class Program
     // Strings
     LearnString learnString = new LearnString();
     learnString.Run();
+    // 2D Array or Matrix
+    LearnMatrix learnMatrix = new LearnMatrix();
+    learnMatrix.Run();
   }
 }

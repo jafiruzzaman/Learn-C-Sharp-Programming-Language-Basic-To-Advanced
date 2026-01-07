@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("learn-object-oriented-programming-in-c-sharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a05f81763a603dc7e0f0e9b59e799475d435fd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0650f4b59e963fe8f4827896c5bc1071de42ade")]
 [assembly: System.Reflection.AssemblyProductAttribute("learn-object-oriented-programming-in-c-sharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("learn-object-oriented-programming-in-c-sharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
