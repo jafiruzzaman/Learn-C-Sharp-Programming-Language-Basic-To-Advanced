@@ -9,15 +9,17 @@ class Program
     programStructure.Run();
     // Data-Types
     DataTypes dataTypes = new DataTypes();
-    dataTypes.Run();
+    // dataTypes.Run();
     // Operators In C#
     Operators operators = new Operators();
-    operators.Run();
+    // operators.Run();
     // Conditionals In C#
     Conditionals conditionals = new Conditionals();
     // conditionals.Run();
     // Calculator Using Switch In C#
     Calculator calculator = new Calculator();
-    calculator.Run();
+    // calculator.Run();
+    Loops loops = new Loops();
+    loops.Run();
   }
 }
