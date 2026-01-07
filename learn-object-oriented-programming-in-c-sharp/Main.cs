@@ -39,5 +39,10 @@ class Program
     car.model = "M5 Competition";
     car.year = 2020;
     Console.WriteLine(car.brand + " " + car.model + " " + car.year);
+    
+    // learn about Objects
+    Student mohammad = new Student("Mohammad", "Jafiruzzaman", 20, "Male");
+    Console.WriteLine(mohammad.name+" "+mohammad.surname+" "+mohammad.age+" "+mohammad.gender);
+    mohammad.sayHello();
   }
 }
