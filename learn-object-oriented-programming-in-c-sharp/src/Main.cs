@@ -13,7 +13,11 @@ class Program
     // Operators In C#
     Operators operators = new Operators();
     operators.Run();
+    // Conditionals In C#
     Conditionals conditionals = new Conditionals();
-    conditionals.Run();
+    // conditionals.Run();
+    // Calculator Using Switch In C#
+    Calculator calculator = new Calculator();
+    calculator.Run();
   }
 }
