@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "learn-object-oriented-programming-in-c-sharp/1.0.0": {
+        "runtime": {
+          "learn-object-oriented-programming-in-c-sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "learn-object-oriented-programming-in-c-sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

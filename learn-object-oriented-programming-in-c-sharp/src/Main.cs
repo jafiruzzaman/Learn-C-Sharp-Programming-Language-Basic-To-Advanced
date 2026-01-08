@@ -44,5 +44,17 @@ class Program
     dog.Name = "Bob"; 
     dog.Eat(); // 🐕 inherit from Animal class
     dog.Bark(); // own property
+    // Compile Time Polymorphism
+    Console.WriteLine("====================================================== Compile Time Polymorphism ======================================================");
+    // default constructor
+    Person person = new Person();
+    person.Display();
+    // overloaded constructor 1 value
+    Person person1 = new Person("Mohammad");
+    person1.Display();
+    // overloaded constructor 2 values
+    Person person2 = new Person("Mohammad Jafiruzzaman",22);
+    person2.Display();
+
   }
 }
