@@ -1,6 +1,4 @@
-using System;
 using learn_object_oriented_programming_in_c_sharp;
-using learn_object_oriented_programming_in_c_sharp.OOPs;
 
 class Program
 {
@@ -40,5 +38,11 @@ class Program
     car.model = "M5 Competition";
     car.year = 2020;
     Console.WriteLine(car.brand + " " + car.model + " " + car.year);
+
+    // Inheritance
+    Dog dog = new Dog();
+    dog.Name = "Bob"; 
+    dog.Eat(); // 🐕 inherit from Animal class
+    dog.Bark(); // own property
   }
 }

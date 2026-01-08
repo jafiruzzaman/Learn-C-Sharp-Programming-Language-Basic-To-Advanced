@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mohammad-jafiruzzaman/RiderProjects/learn-object-oriented-programming-in-c-sharp/learn-object-oriented-programming-in-c-sharp/learn-object-oriented-programming-in-c-sharp.csproj",
+      "projectUniqueName": "/home/mohammad-jafiruzzaman/Music/dev/Learn-C-Sharp-Programming-Language-Basic-To-Advanced/learn-object-oriented-programming-in-c-sharp/learn-object-oriented-programming-in-c-sharp.csproj",
       "projectName": "learn-object-oriented-programming-in-c-sharp",
-      "projectPath": "/home/mohammad-jafiruzzaman/RiderProjects/learn-object-oriented-programming-in-c-sharp/learn-object-oriented-programming-in-c-sharp/learn-object-oriented-programming-in-c-sharp.csproj",
+      "projectPath": "/home/mohammad-jafiruzzaman/Music/dev/Learn-C-Sharp-Programming-Language-Basic-To-Advanced/learn-object-oriented-programming-in-c-sharp/learn-object-oriented-programming-in-c-sharp.csproj",
       "packagesPath": "/home/mohammad-jafiruzzaman/.nuget/packages/",
-      "outputPath": "/home/mohammad-jafiruzzaman/RiderProjects/learn-object-oriented-programming-in-c-sharp/learn-object-oriented-programming-in-c-sharp/obj/",
+      "outputPath": "/home/mohammad-jafiruzzaman/Music/dev/Learn-C-Sharp-Programming-Language-Basic-To-Advanced/learn-object-oriented-programming-in-c-sharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mohammad-jafiruzzaman/.nuget/NuGet/NuGet.Config"
