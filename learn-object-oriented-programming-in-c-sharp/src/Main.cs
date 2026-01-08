@@ -41,7 +41,7 @@ class Program
 
     // Inheritance
     Dog dog = new Dog();
-    dog.Name = "Bob"; 
+    dog.name = "Bob"; 
     dog.Eat(); // 🐕 inherit from Animal class
     dog.Bark(); // own property
     // Compile Time Polymorphism
@@ -56,5 +56,9 @@ class Program
     Person person2 = new Person("Mohammad Jafiruzzaman",22);
     person2.Display();
 
+    // Run Time Polymorphism
+    Console.WriteLine("====================================================== Runtime Time Polymorphism ======================================================");
+    Cat cat = new Cat("Tubla"); // 🗒️ we can write also like this 🫳 Cat cat = new("Tubla");
+    cat.MakeSound();
   }
 }
