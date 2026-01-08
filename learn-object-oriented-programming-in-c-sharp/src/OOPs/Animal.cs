@@ -1,9 +1,9 @@
 class Animal
 {
-  public string Name;
+  public string name;
   public void Eat()
   {
-    Console.WriteLine(Name+" is Eating.");
+    Console.WriteLine(name+" is Eating.");
   }
 }
 
@@ -11,6 +11,6 @@ class Dog: Animal
 {
   public void Bark()
   {
-    Console.WriteLine($"{Name} is Barking.");
+    Console.WriteLine($"{name} is Barking.");
   }
 }
