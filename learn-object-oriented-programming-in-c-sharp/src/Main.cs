@@ -60,5 +60,9 @@ class Program
     Console.WriteLine("====================================================== Runtime Time Polymorphism ======================================================");
     Cat cat = new Cat("Tubla"); // 🗒️ we can write also like this 🫳 Cat cat = new("Tubla");
     cat.MakeSound();
+    // Abstraction
+    Console.WriteLine("====================================================== Abstraction In C# ======================================================");
+    Shape circle = new Circle("Circle",7.67);
+    circle.displayInfo();
   }
 }
